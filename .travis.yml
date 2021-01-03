@@ -3,5 +3,5 @@ python:
   - "3.8.5"
 
 script:
-  - python3 encryptjson/jsontoxml.py
-  - python3 xmldecrypt/decryptxml.py
+  - python3 /home/effua/Documents/jsontoxml/encryptjson/jsontoxml.py
+  - python3 /home/effua/Documents/jsontoxml/xmldecrypt/decryptxml.py
