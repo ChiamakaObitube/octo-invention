@@ -3,4 +3,5 @@ python:
   - "3.8.5"
 
 script:
-  - pip3 install
+  - python3 encryptjson/jsontoxml.py
+  - python3 xmldecrypt/decryptxml.py
